@@ -1,4 +1,4 @@
-# CLI -> Example
+# CLI 
 ```
 1. go run main. -export prueba.txt
 2. lanza por consolta el resultado
