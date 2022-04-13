@@ -29,7 +29,6 @@ func ShowInConsole(expensesList []float32) {
 
 	/* string builder -> variable que captura valores
 	y mantiene en buffer*/
-
 	fmt.Println(contentString(expensesList))
 }
 
